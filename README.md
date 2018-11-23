@@ -1,1 +1,1 @@
-## Reglas del chat | Programación lógica
+### Reglas del chat | Programación lógica
